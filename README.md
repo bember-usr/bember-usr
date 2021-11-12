@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bember-usr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 
 
-<!---
-bember-usr/bember-usr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Thanks for visiting! 😄💜 
+
+### About education: I'm currently a student (software engineering student) at university ✨.
+
+### I have experience in diverse programming languages. 🧠
+
+### My current goal is to deepen my knowledge in software engineering 💻💡.
