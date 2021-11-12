@@ -4,6 +4,6 @@
 
 ### *About education: I'm currently a student (software engineering student) at university ✨.*
 
-### **I have experience in diverse programming languages. 🧠**
+### *I have experience in diverse programming languages. 🧠*
 
 ### **_My current goal is to deepen my knowledge in software engineering 💻💡._**
